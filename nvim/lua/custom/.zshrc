@@ -1,0 +1,1 @@
+/home/alfkar/dotfiles/.zshrc
